@@ -1,0 +1,3 @@
+Halo dunia, saya Bagindo Sutan
+
+Sekarang saya sedang belajar git dan github
